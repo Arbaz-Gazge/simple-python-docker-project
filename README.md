@@ -1,31 +1,37 @@
 ## Docker Python Project
-<<<<<<< HEAD
-  Welcome to the Docker Python Project! This project demonstrates how to deploy a Python web application
+  Welcome to the Docker Python Project! This project demonstrates how to deploy a Python web application 
   using Docker and a base Python 3 Linux image.
   Table of Contents
-    • Project Overview
-=======
-Welcome to the Docker Python Project! This project demonstrates how to deploy a Python web application using Docker and a base Python 3 Linux image.
-    Table of Contents
-    •
->>>>>>> origin/main
-    • Prerequisites
-    • Project Structure
-    • Setting Up the Project
-    • Building the Docker Image
-    • Running the Docker Container
-    • Testing the Application
-    • Troubleshooting
-    • Contributing
-    • License
+   
+• Project Overview
+   
+• Prerequisites
+   
+• Project Structure
+   
+• Setting Up the Project
+   
+• Building the Docker Image
+   
+• Running the Docker Container
+   
+• Testing the Application
+   
+• Troubleshooting
+   
+• Contributing
+   
+
 ## Project Overview
 This project demonstrates the following key tasks:
-    • Building a Docker image using a base Python 3 Linux image from Docker Hub.
-    • Configuring the Docker image to include a Python web application and its dependencies.
-    • Running a Docker container based on the created image.
+    
+• Building a Docker image using a base Python 3 Linux image from Docker Hub.
+    
+• Configuring the Docker image to include a Python web application and its dependencies.
+    
+• Running a Docker container based on the created image.
 ## Prerequisites
 Before getting started, make sure you have the following prerequisites installed on your machine:
-<<<<<<< HEAD
 
 • Docker: [Install Docker](https://docs.docker.com/engine/install/)
 
@@ -49,7 +55,7 @@ Before getting started, make sure you have the following prerequisites installed
 ## Setting Up the Project
 1. Clone the project repository (if you haven't already):
 
- ```bash
+ ```bash 
     git clone https://github.com/your-username/DockerPythonProject.git
     cd DockerPythonProject
  ```
@@ -57,32 +63,6 @@ Before getting started, make sure you have the following prerequisites installed
 3. Update the ```requirements.txt``` file with the necessary dependencies.
 
 ## Building the Docker Image
-=======
-    • Docker: Install Docker
-    • Git (optional, for cloning the project): Install Git
-# Project Structure
-The project directory is structured as follows:
-
-    DockerPythonProject/
-    |-- app.py
-    |-- requirements.txt
-    |-- Dockerfile
-    |-- README.md
-    
-    • app.py: Python web application code (replace with your actual application code).
-    • requirements.txt: List of Python dependencies required by the application.
-    • Dockerfile: Instructions for building the Docker image.
-    • README.md: Documentation for the project.
-# Setting Up the Project
-1. Clone the project repository (if you haven't already):
-       '''bash
-       git clone https://github.com/your-username/DockerPythonProject.git
-       cd DockerPythonProject
-       '''
-2. Place your Python web application code in the project directory.
-3. Update the requirements.txt file with the necessary dependencies.
-Building the Docker Image
->>>>>>> origin/main
 Build the Docker image using the following command:
 
 ```bash
@@ -113,4 +93,3 @@ If you encounter issues, refer to the ```Troubleshooting``` section in the READM
 ## Contributing
 
 Contributions are welcome! If you find any issues or improvements, please open an issue or submit a pull request.
-
