@@ -34,14 +34,13 @@ The project directory is structured as follows:
     • Dockerfile: Instructions for building the Docker image.
     • README.md: Documentation for the project.
 # Setting Up the Project
-    1. Clone the project repository (if you haven't already):
+1. Clone the project repository (if you haven't already):
        '''bash
        git clone https://github.com/your-username/DockerPythonProject.git
-       
        cd DockerPythonProject
        '''
-    2. Place your Python web application code in the project directory.
-    3. Update the requirements.txt file with the necessary dependencies.
+2. Place your Python web application code in the project directory.
+3. Update the requirements.txt file with the necessary dependencies.
 Building the Docker Image
 Build the Docker image using the following command:
 bashCopy code
