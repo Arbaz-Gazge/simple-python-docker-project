@@ -1,7 +1,7 @@
-Docker Python Project
-Welcome to the Docker Python Project! This project demonstrates how to deploy a Python web application using Docker and a base Python 3 Linux image.
-Table of Contents
-    • Project Overview
+# Docker Python Project
+    Welcome to the Docker Python Project! This project demonstrates how to deploy a Python web application using Docker and a base Python 3 Linux image.
+    Table of Contents
+    •
     • Prerequisites
     • Project Structure
     • Setting Up the Project
@@ -11,7 +11,7 @@ Table of Contents
     • Troubleshooting
     • Contributing
     • License
-Project Overview
+# Project Overview
 This project demonstrates the following key tasks:
     • Building a Docker image using a base Python 3 Linux image from Docker Hub.
     • Configuring the Docker image to include a Python web application and its dependencies.
