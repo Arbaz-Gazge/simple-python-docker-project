@@ -29,11 +29,11 @@ The project directory is structured as follows:
     |-- Dockerfile
     |-- README.md
     
-• app.py: Python web application code (replace with your actual application code).
+    • app.py: Python web application code (replace with your actual application code).
     • requirements.txt: List of Python dependencies required by the application.
     • Dockerfile: Instructions for building the Docker image.
     • README.md: Documentation for the project.
-Setting Up the Project
+# Setting Up the Project
     1. Clone the project repository (if you haven't already):
        bashCopy code
        git clone https://github.com/your-username/DockerPythonProject.git
