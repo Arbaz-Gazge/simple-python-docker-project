@@ -16,18 +16,19 @@ This project demonstrates the following key tasks:
     • Building a Docker image using a base Python 3 Linux image from Docker Hub.
     • Configuring the Docker image to include a Python web application and its dependencies.
     • Running a Docker container based on the created image.
-Prerequisites
+# Prerequisites
 Before getting started, make sure you have the following prerequisites installed on your machine:
     • Docker: Install Docker
     • Git (optional, for cloning the project): Install Git
-Project Structure
+# Project Structure
 The project directory is structured as follows:
-luaCopy code
-DockerPythonProject/
-|-- app.py
-|-- requirements.txt
-|-- Dockerfile
-|-- README.md
+
+    DockerPythonProject/
+    |-- app.py
+    |-- requirements.txt
+    |-- Dockerfile
+    |-- README.md
+    
     • app.py: Python web application code (replace with your actual application code).
     • requirements.txt: List of Python dependencies required by the application.
     • Dockerfile: Instructions for building the Docker image.
