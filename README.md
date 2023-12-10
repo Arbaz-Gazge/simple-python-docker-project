@@ -29,7 +29,7 @@ The project directory is structured as follows:
     |-- Dockerfile
     |-- README.md
     
-    • app.py: Python web application code (replace with your actual application code).
+• app.py: Python web application code (replace with your actual application code).
     • requirements.txt: List of Python dependencies required by the application.
     • Dockerfile: Instructions for building the Docker image.
     • README.md: Documentation for the project.
