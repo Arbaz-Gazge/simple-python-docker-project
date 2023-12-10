@@ -90,6 +90,9 @@ If you encounter issues, refer to the ```Troubleshooting``` section in the READM
 ```bash
   docker logs <container_id_or_name>
 ```
+## ARBAZ GAZGE
+[Instagram](https://www.instagram.com/arbaz_gazge/)
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or improvements, please open an issue or submit a pull request.
